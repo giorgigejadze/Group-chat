@@ -1,0 +1,177 @@
+.lo{
+    position: relative;
+    top: 50px; left: 0px;
+}
+.logo{
+    position: relative;
+    top: 0px; left: 870px;
+}
+.Pimg{
+    position: relative;
+    top: 50px; left: 0px;
+}
+h2{
+    position: relative;
+    top: -80px; left: 770px;
+    font-size: 60px;
+    display: inline-block;
+    text-align: center;
+}
+.left{
+    display: inline-block;
+    position: relative;
+    top: 50px; left: -260px;
+}
+.right{
+    position: relative;
+    top: 100px; left: 680px;  
+}
+.meet{
+    position: relative;
+    top: -120px; left: 10px;
+    text-align: center
+}
+.Dow{
+    position: relative;
+    top: -100px; left: 790px;
+    height: 50px;
+    width: 180px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    background-color: rgb(37, 155, 155);
+    color: white;
+}
+.colorv{
+    color: rgb(50, 224, 224);
+}
+.Wha{
+    position: relative;
+    top: -100px; left: 800px;
+    height: 50px;
+    width: 100px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    background-color: rgb(125, 59, 187);
+    color: white;
+}
+.circle {
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(179, 172, 172);
+    border-radius: 50%;
+    background: none;
+    position: relative;
+    top: 122px; left: 919px;
+}
+.vertical-line {
+    border-left: 1px solid rgb(179, 172, 172);
+    height: 70px;
+    margin: 0 940px;
+    position: relative;
+    top: 0px; left: 4px;
+    display: inline-block;
+}
+.number{
+    position: relative;
+    top: -10px; left: 936px;
+    font-size: 20px;
+    color: rgb(82, 82, 82);
+    display: inline-flex;
+}
+.img2{
+    position: relative;
+    top: 50px; left: 0px;
+}
+.mtext{
+    width: 300px;
+    position: relative;
+    top: 0px; left: 1300px;
+    border-radius: 10px;
+}
+.men{
+    width: 300px;
+    border-radius: 10px;
+    position: relative;
+    top: 0px; left: 660px;
+}
+.women{
+    width: 300px;
+    border-radius: 10px;
+    position: relative;
+    top: 0px; left: 20px;
+}
+.woman{
+    width: 300px;
+    border-radius: 10px;
+    position: relative;
+    top: 0px; left: -620px;
+}
+.modern{
+    position: relative;
+    top: 100px; left: 0px;
+    height: 250px;
+    display: inline-block;
+}
+h3{
+    position: relative;
+    top: -100px; left: 845px;
+    display: inline-block;
+    color: aqua;
+    word-spacing: 10px;
+}
+.smart{
+    position: relative;
+    top: 0px; left: 520px;
+    font-size: 45px;
+    display: inline-block;
+}
+.send{
+    text-align: center;
+    position: relative;
+    top: 100px; left: 50px;
+    display: inline-block;
+    font-size: 20px;
+    color: rgb(139, 142, 145);
+}
+.finish{
+    position: relative;
+    top: 150px; left: 0px;
+    height: 405px;
+    background-color: 5px;
+}
+.im{
+    position: relative;
+    top: 0px; left: -3px;
+    width: 1895px;
+}
+.square {
+    width: 1895px;
+    height: 408px;
+    background-color: rgba(14, 178, 219, 0.705);
+    position: relative;
+    top: -410px; left: -3px;
+    display: inline-block;
+}
+.v13{
+    position: relative;
+    top: -650px; left: 850px;
+    height: 50px;
+    width: 180px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    background-color: rgb(125, 59, 187);
+    color: white;
+}
+.colorr{
+    color: rgb(219, 181, 255);
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
